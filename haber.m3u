@@ -8,7 +8,7 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="⚡️Haber" tvg-id="⚡️HaberturkTV.tr" tvg-logo="tv logo" ,Habertürk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 group-title="⚡️Haber" tvg-id="TV100.tr" tvg-logo="tv logo" ,TV 100
-https://tv100.blutv.com/blutv_tv100_live/live.m3u8
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 group-title="⚡️Haber" tvg-id="UlkeTV.tr" tvg-logo="tv logo" ,Ulke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 group-title="⚡️Haber" tvg-id="NTV.tr" tvg-logo="tv logo" ,NTV
