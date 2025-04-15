@@ -8,7 +8,7 @@ http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6854/index.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Dmax
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,TLC
-http://stream.tvcdn.net/eglence/tlc.m3u8
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Saglıklı Gunler
 http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Tarih Tv
