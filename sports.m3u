@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Spor Haber" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Spor Haber
+http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6939/index.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Sport 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Sport 1
+http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6781/index.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Sport 1 Yedek" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Sport 1 Yedek
+http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6817/index.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Sport 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Sport 2
+http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6818/index.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Sport 2 Yedek" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Sport 2 Yedek
+http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6818/index.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Sport 3" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Sport 3
+http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6821/index.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Sport 4" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Sport 4
+http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6823/index.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="ASPOR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,ASPOR
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="TivibuSpor" tvg-logo="tv logo" ,TivibuSpor
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="TiviBu Spor2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,TiviBu Spor2
+http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6816/index.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Eurosport1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Eurosport1
+https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Eurosport2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Eurosport2
+https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Sport" tvg-logo="tv logo" ,Sport
+https://217.30.11.74/e/3030.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Sport2" tvg-logo="tv logo" ,Sport2
+https://217.30.11.74/e/3031.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Hard Knocks Fighting" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Hard Knocks Fighting
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="RedBull TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="FİFA" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,FİFA
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="DAZN Combat Boks TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,DAZN Combat Boks TV
+https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Tabii Spor" tvg-logo="tv logo" ,Tabii Spor
+https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Tabii Spor1" tvg-logo="tv logo" ,Tabii Spor1
+https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Tabii Spor2" tvg-logo="tv logo" ,Tabii Spor2
+https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Tabii Spor3" tvg-logo="tv logo" ,Tabii Spor3
+https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Tabii Spor4" tvg-logo="tv logo" ,Tabii Spor4
+https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Tabii Spor5" tvg-logo="tv logo" ,Tabii Spor5
+https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Tabii Spor6" tvg-logo="tv logo" ,Tabii Spor6
+https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="TRT Spor" tvg-logo="tv logo" ,TRT Spor
+https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="TRT Spor Yıldız" tvg-logo="tv logo" ,TRT Spor Yıldız
+https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Sports TV" tvg-logo="tv logo" ,Sports TV
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="TRSPOR TV" tvg-logo="tv logo" ,TRSPOR TV
+http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Türkiye Ziraat Kupası" tvg-logo="tv logo" ,Türkiye Ziraat Kupası
+http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
+#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="HT Spor" tvg-logo="tv logo" ,HT Spor
+https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
