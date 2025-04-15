@@ -12,7 +12,7 @@ https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,TRT TÜRK
 https://tv-trtturk.medya.trt.com.tr/master_720.m3u8?checkedby:MyWay
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,ATV
-https://trkvz-live.daioncdn.net/atv/atv_720p.m3u8
+https://tv.arectv13.sbs/live/atv1.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Star Tv
 https://dogus.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Eurostar
@@ -24,7 +24,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8?checkedby:MyWay
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Now
  http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Show Tv
-http://stream.tvcdn.net/ulusal/show-tv.m3u8
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Tv 8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Tv 8,5
