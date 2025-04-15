@@ -5,8 +5,6 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 group-title="⚡Cizgi Film" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-name="TRT Cocuk" tvg-id="TRT Cocuk.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/trt-cocuk-tr.png" group-title="Çocuklara Özel",TRT Cocuk
-https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 tvg-name="MinikaGo" tvg-id="Minika GO.tr" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="Çocuklara Özel",MinikaGo
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-name="Minika Çocuk" tvg-id="Minika Çocuk.tr" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="Çocuklara Özel",Minika Çocuk
