@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚡Cizgi Film" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,MINIKA GO
+#EXTINF:-1 group-title="⚡Cizgi Film" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" ,MINIKA GO
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1 group-title="⚡Cizgi Film" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,MINIKA ÇOCUK
+#EXTINF:-1 group-title="⚡Cizgi Film" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" ,MINIKA ÇOCUK
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 group-title="⚡Cizgi Film" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
