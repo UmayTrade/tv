@@ -7,14 +7,12 @@ https://217.30.11.74/e/500.m3u8
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6854/index.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Dmax
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
-#EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Tarih Tv
-http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/130546.ts.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,TGRT Belgesel
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Yaban Tv
-http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
+https://yayin1.canlitv.fun/canlitv/yabantv.stream/playlist.m3u8?hash=b391220d10e33ed05d9569134f09f65
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Çifçi Tv
 http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Tarım Tv
