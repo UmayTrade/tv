@@ -11,16 +11,6 @@ https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,TGRT Belgesel
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
-#EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Yaban Tv
-https://yayin1.canlitv.fun/canlitv/yabantv.stream/playlist.m3u8?hash=b391220d10e33ed05d9569134f09f65
-#EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Çifçi Tv
-http://stream.tvcdn.net/belgesel/ciftci-tv.m3u8
-#EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Tarım Tv
-http://stream.tvcdn.net/belgesel/tarim-tv.m3u8
-#EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Köy Tv
-http://stream.tvcdn.net/belgesel/koy-tv.m3u8
-#EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Toprak Tv
-http://stream.tvcdn.net/belgesel/toprak-tv.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Super Turk Max
 http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Sdm Belgesel
