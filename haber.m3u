@@ -12,7 +12,7 @@ https://tv100-live.daioncdn.net/tv100/tv100.m3u8
 #EXTINF:-1 group-title="⚡️Haber" tvg-id="UlkeTV.tr" tvg-logo="tv logo" ,Ulke TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
 #EXTINF:-1 group-title="⚡️Haber" tvg-id="NTV.tr" tvg-logo="tv logo" ,NTV
-http://stream.tvcdn.net/haber/ntv.m3u8
+https://yayin2.canlitv.fun/live/ntv.stream/chunklist_w1096540513.m3u8?hash=b391220d10e33ed05d9569134f09f651
 #EXTINF:-1 group-title="⚡️Haber" tvg-id="24TV.tr" tvg-logo="tv logo" ,24 TV
 http://stream.tvcdn.net/haber/24-tv.m3u8
 #EXTINF:-1 group-title="⚡️Haber" tvg-id="TVNET.tr" tvg-logo="tv logo" ,CNN TURK
