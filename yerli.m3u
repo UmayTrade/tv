@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:1 group-title="⚡  Yerli Filmler" tvg-id="73" tvg-name="Cine6 Max" tvg-logo="https://img-puhutv.mncdn.com/media/20-09/02/sampiyon_16x9-1599054703.jpg" ,Bizim İçin Şampiyon
-http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/318.mkv
+http://162.19.177.70:8080/movie/ytr21s2az/f98d23asac/12014.mkv
 #EXTINF:1 group-title="⚡  Yerli Filmler" tvg-id="73" tvg-name="Cine6 Max" tvg-logo="https://img-puhutv.mncdn.com/media/19-06/24/16x9_bir-kucuk-eylul-meselesi-1561406862.jpg" ,Bi Küçük Eylül Meselesi
 https://dygvideo.dygdigital.com/api/redirect?PublisherId=29&ReferenceId=PUHU_d1244d5a-5581-4a46-bd3f-1d135e4fd21a&SecretKey=NtvApiSecret2014*&.m3u8
 #EXTINF:1 group-title="⚡  Yerli Filmler" tvg-id="73" tvg-name="Cine6 Max" tvg-logo="https://img-puhutv.mncdn.com/media/23-11/10/stanbul-kirmizisititle_16x9-1699627835.jpg" ,İstanbul Kırmızısı
