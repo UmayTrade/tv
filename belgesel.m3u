@@ -18,9 +18,9 @@ http://stream.tvcdn.net/eglence/saglikli-gunler-tv.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Tarih Tv
 http://stream.tvcdn.net/eglence/tarih-tv.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,TRT Belgesel
-http://stream.tvcdn.net/belgesel/trt-belgesel.m3u8
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,TGRT Belgesel
-http://stream.tvcdn.net/belgesel/tgrt-belgesel.m3u8
+https://tgn.bozztv.com/dvrfl05/gin-tgrtbelgesel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Yaban Tv
 http://stream.tvcdn.net/belgesel/yaban-tv.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Çifçi Tv
