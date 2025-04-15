@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Bein Gurme
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6804/index.m3u8
-#EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Belgesel Tv
-http://stream.tvcdn.net/eglence/belgesel-tv.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Nation
 https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Discovery
@@ -10,7 +6,7 @@ https://217.30.11.74/e/500.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,BBC
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6854/index.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Dmax
-http://stream.tvcdn.net/eglence/dmax.m3u8
+https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,TLC
 http://stream.tvcdn.net/eglence/tlc.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Saglıklı Gunler
