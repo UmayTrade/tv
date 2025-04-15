@@ -7,18 +7,10 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT Cocuk" tvg-id="TRT Cocuk.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/trt-cocuk-tr.png" group-title="Çocuklara Özel",TRT Cocuk
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="Cartoon Network" tvg-id="Cartoon Network.tr" tvg-logo="https://i.ibb.co/X5yPXkD/cartoon-network.png" group-title="Çocuklara Özel",Cartoon Network
-https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
 #EXTINF:-1 tvg-name="MinikaGo" tvg-id="Minika GO.tr" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="Çocuklara Özel",MinikaGo
-https://tgn.bozztv.com/dvrfl05/gin-minikago/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Minika Go" tvg-id="Minika Go.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/minika-go-tr.png" group-title="Çocuklara Özel",Minika Go
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-name="Minika Çocuk" tvg-id="Minika Çocuk.tr" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="Çocuklara Özel",Minika Çocuk
-https://tgn.bozztv.com/dvrfl05/gin-minikacocuk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Minika Cocuk" tvg-id="Minika Çocuk.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/minika-cocuk-tr.png" group-title="Çocuklara Özel",Minika Cocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
-#EXTINF:-1 tvg-name="Cartoonito" tvg-id="Cartoonito.tr" tvg-logo="https://i0.wp.com/www.yeniyeniseyler.com/wp-content/uploads/2023/09/Boomerang-Cartoonito.webp?ssl=1" group-title="Çocuklara Özel",Cartoonito
-http://ekosupport.xyz:80/live/uayoglu39/KfVL4Vdj66/839607.ts.m3u8
 #EXTINF:-1 tvg-name="Smart Cocuk" tvg-id="Smart Cocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/Smart_%C3%87ocuk_2015.png" group-title="Çocuklara Özel",Smart Cocuk
 http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/379
 
