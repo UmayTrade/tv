@@ -14,7 +14,7 @@ https://tv-trtturk.medya.trt.com.tr/master_720.m3u8?checkedby:MyWay
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,ATV
 https://trkvz-live.daioncdn.net/atv/atv.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Star Tv
-http://stream.tvcdn.net/ulusal/star-tv.m3u8
+https://dogus.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Eurostar
 https://canlitvulusal.xyz/live/eurostar/index.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Kanal D
