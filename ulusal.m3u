@@ -30,7 +30,7 @@ https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Tv 8,5
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Beyaz Tv
-http://stream.tvcdn.net/ulusal/beyaz-tv.m3u8
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,360
 http://stream.tvcdn.net/ulusal/360-tv.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Teve 2
