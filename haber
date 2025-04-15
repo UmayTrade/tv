@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="HalkTV.tr" tvg-logo="tv logo" ,YOL Tv
+https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="HalkTV.tr" tvg-logo="tv logo" ,Halk TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="TRT Haber.tr" tvg-logo="tv logo" ,TRT Haber
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="⚡️HaberturkTV.tr" tvg-logo="tv logo" ,Habertürk
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="TV100.tr" tvg-logo="tv logo" ,TV 100
+http://stream.tvcdn.net/ulusal/tv-100.m3u8
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="UlkeTV.tr" tvg-logo="tv logo" ,Ulke TV
+https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="NTV.tr" tvg-logo="tv logo" ,NTV
+http://stream.tvcdn.net/haber/ntv.m3u8
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="24TV.tr" tvg-logo="tv logo" ,24 TV
+http://stream.tvcdn.net/haber/24-tv.m3u8
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="TVNET.tr" tvg-logo="tv logo" ,CNN TURK
+http://trn03.tulix.tv/gt-cnn-turk/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="BenguturkTV.tr" tvg-logo="tv logo" ,Haber Global
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="BloombergHT.tr" tvg-logo="tv logo" ,Bloomberg HT
+http://stream.tvcdn.net/ekonomi/bloomberg-ht.m3u8
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="BloombergHT.tr" tvg-logo="tv logo" ,TGRT Haber
+https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber_720p.m3u8
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="MeltemTV.tr" tvg-logo="tv logo" ,Meltem TV
+http://stream.tvcdn.net/dini/meltem-tv.m3u8
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Flash Haber
+https://flashhaber-live.ercdn.net/flashhaber/flashhaber_1080p.m3u8
+#EXTINF:-1 group-title="⚡️Haber" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Tv Net
+https://mn-nl.mncdn.com/tvnet/tvnet/chunklist.m3u8
