@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="http://epg.tvcdn.net/guide/tr-guide.xml"
 #EXTINF:-1 group-title="Muzik" tvg-id="TRTMuzik.tr" tvg-logo="http://assets.tvcdn.net/e9efa31e-106b-40e0-ab4e-a760061c7ad6.png" ,TRT Muzik
-http://stream.tvcdn.net/muzik/trt-muzik.m3u8
+https://tv-trtmuzik.live.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Muzik" tvg-id="DreamTurk.tr" tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png" ,Dream Turk
 http://stream.tvcdn.net/muzik/dream-turk.m3u8
 #EXTINF:-1 group-title="Muzik" tvg-id="PowerTurkTV.tr" tvg-logo="http://assets.tvcdn.net/c866b6f0-00bd-40b9-9583-8cbdbe6a503e.png" ,Powerturk TV
