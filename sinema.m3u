@@ -23,10 +23,6 @@ https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 https://ip100.radyotelekomtv.com:3982/stream/play.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="SL YEŞİLÇAM HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png" group-title="[🇹🇷TR] 7/24 YEŞİLÇAM",SL YEŞİLÇAM HD¹
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82779
-#EXTINF:-1 tvg-id="33" tvg-name="SL YEŞİLÇAM HD²" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png" group-title="[🇹🇷TR] 7/24 YEŞİLÇAM",SL YEŞİLÇAM HD²
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82777
-#EXTINF:-1 tvg-id="33" tvg-name="SL YEŞİLÇAM HD³" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png" group-title="[🇹🇷TR] 7/24 YEŞİLÇAM",SL YEŞİLÇAM HD³
-http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82778
 #EXTINF:-1 tvg-id="33" tvg-name="SUNAL TV" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png" group-title="[🇹🇷TR] 7/24 YEŞİLÇAM",SUNAL TV
 http://185.11.145.188:8080/live:.cid.d793630db0cd57d6/7yGGmNox9Z/82786
 #EXTINF:-1 tvg-id="33" tvg-name="SL KEMAL SUNAL HD¹" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/d/d5/20110904195259%21Yeşilçam_TV_logosu.png" group-title="[🇹🇷TR] 7/24 YEŞİLÇAM",SL KEMAL SUNAL HD¹
