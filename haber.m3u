@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="⚡️Haber" tvg-id="TVNET.tr" tvg-logo="tv logo" ,CNN TURK
 http://trn03.tulix.tv/gt-cnn-turk/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="CNN Türk" tvg-id="CNN Turk.tr" tvg-logo="https://blutv-images.mncdn.com/q/t/i/bluv2/100/750x750/61236013866ac319e8143500" group-title="Haber",CNN Türk
-https://cdn7.kavuntv.net/cnnturk.m3u8?tkn=q7izQH4zAI0jTDIiraPQRw&tms=1744562917&hst=tv.kavuntv.net&ip=2a02:8109:410:3e00:68f6:8edd:aab5:59ef
 #EXTINF:-1 group-title="⚡️Haber" tvg-id="NTV.tr" tvg-logo="tv logo" ,NTV
 https://dogus.daioncdn.net/ntv/ntv_720p.m3u8
 #EXTINF:-1 group-title="⚡️Haber" tvg-id="TRT Haber.tr" tvg-logo="tv logo" ,TRT Haber
