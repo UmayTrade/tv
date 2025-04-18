@@ -27,14 +27,16 @@ https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 tvg-name="Fox" tvg-id="NOW.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/fox-tr.png" group-title="Ulusal",Fox Ydk
 http://116.202.238.88/FOXTV_TR/index.m3u8
-#EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Tv 8.5
-https://tv.arectv13.sbs/live/tv85.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Now
  http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Tv 8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
+#EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",TV 8 Ydk
+https://b.fulltvizle.com/kanal8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Tv 8.5
 https://tv.arectv13.sbs/live/tv85.m3u8
+#EXTINF:-1 tvg-name="TV 8.5" tvg-id="TV 8,5.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/TV_8.5_TR_logo_v2.png?1734016644" group-title="Ulusal",TV 8.5 Ydk
+https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/6415845530001/profile_0/chunklist.m3u
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Beyaz Tv
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,360
