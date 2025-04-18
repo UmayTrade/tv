@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="http://assets.tvcdn.net/1045ea2f-2453-451d-a55f-ba17539641dd.png" ,TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="Ulusal",TRT 1 Ydk
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="TRT 1.tr" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="Ulusal",TRT 1 B
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,TRT 2
 https://tv-trt2.medya.trt.com.tr/master.m3u8
@@ -13,7 +13,7 @@ https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 https://canlitvulusal.xyz/live/eurostar/index.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,ATV
 https://tv.arectv13.sbs/live/atv1.m3u8
-#EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,ATV
+#EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,ATV B
 https://tv.arectv13.sbs/live/atv1.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Kanal D
 https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
@@ -21,21 +21,21 @@ https://demiroren-live.daioncdn.net/kanald/kanald_1080p.m3u8
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8?checkedby:MyWay
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Show Tv
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-name="Show TV" tvg-id="Show TV.tr" tvg-logo="https://m.showtv.com.tr/assets/images/other/showtv_social_media.jpg" group-title="Ulusal",Show TV Ydk
+#EXTINF:-1 tvg-name="Show TV" tvg-id="Show TV.tr" tvg-logo="https://m.showtv.com.tr/assets/images/other/showtv_social_media.jpg" group-title="Ulusal",Show TV B
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Now
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1 tvg-name="Fox" tvg-id="NOW.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/fox-tr.png" group-title="Ulusal",Fox Ydk
+#EXTINF:-1 tvg-name="Fox" tvg-id="NOW.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/fox-tr.png" group-title="Ulusal",Now B
 http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Now
  http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Tv 8
 https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
-#EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",TV 8 Ydk
+#EXTINF:-1 tvg-name="TV 8" tvg-id="TV8.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/68/Tv8_Yeni_Logo.png" group-title="Ulusal",TV 8 B
 https://b.fulltvizle.com/kanal8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Tv 8.5
 https://tv.arectv13.sbs/live/tv85.m3u8
-#EXTINF:-1 tvg-name="TV 8.5" tvg-id="TV 8,5.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/TV_8.5_TR_logo_v2.png?1734016644" group-title="Ulusal",TV 8.5 Ydk
+#EXTINF:-1 tvg-name="TV 8.5" tvg-id="TV 8,5.tr" tvg-logo="https://tvprofil.com/img/kanali-logo/TV_8.5_TR_logo_v2.png?1734016644" group-title="Ulusal",TV 8.5 B
 https://bcovlive-a.akamaihd.net/8fe5dabcdbcd4af0ace7b991a12a6a4c/eu-central-1/6415845530001/profile_0/chunklist.m3u
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Beyaz Tv
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
@@ -47,7 +47,7 @@ https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7_1080p.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
-#EXTINF:-1 tvg-name="A2" tvg-id="a2.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/a2-tr.png" group-title="Ulusal",A2 Ydk
+#EXTINF:-1 tvg-name="A2" tvg-id="a2.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/a2-tr.png" group-title="Ulusal",A2 B
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,TYT TV
 https://cdn-tytturk.yayin.com.tr/tytturk/tracks-v1a1/mono.m3u8
