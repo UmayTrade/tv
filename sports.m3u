@@ -57,6 +57,8 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="TRT Spor" tvg-logo="tv logo" ,TRT Spor
 https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="" tvg-logo="http://epg.one/img/6525.png" group-title="[🇹🇷TR] SPOR",TRT SPOR B
+https://trt.daioncdn.net/trtspor/master.m3u8?app=web
 #EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="TRT Spor Yıldız" tvg-logo="tv logo" ,TRT Spor Yıldız
 https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Sports TV" tvg-logo="tv logo" ,Sports TV
