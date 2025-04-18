@@ -1,15 +1,19 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚡Cizgi Film" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" ,MINIKA GO
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago.m3u8
-#EXTINF:-1 group-title="⚡Cizgi Film" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" ,MINIKA ÇOCUK
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
+#EXTINF:-1 tvg-name="Disney Channel" tvg-id="Disney Channel.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/disney-channel-tr.png" group-title="Çocuklara Özel",Disney Channel
+http://norsvpx.top:8080/231679575500969074/1511679575500969/57892
+#EXTINF:-1 tvg-id="33" tvg-name="Disney JR" tvg-logo="" group-title="[🇹🇷TR] ÇOCUK",DİSNEY JR
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+#EXTINF:-1 tvg-name="Smart Cocuk" tvg-id="Smart Cocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/Smart_%C3%87ocuk_2015.png" group-title="Çocuklara Özel",Smart Cocuk
+http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/379
+#EXTINF:-1 tvg-id="35" tvg-name="BABY TV HD" tvg-logo="" group-title="[🇹🇷TR] ÇOCUK",BABY TV HD
+https://saran-live.ercdn.net/babytv/index.m3u8
 #EXTINF:-1 group-title="⚡Cizgi Film" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="⚡Cizgi Film" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" ,MINIKA ÇOCUK
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk.m3u8
 #EXTINF:-1 tvg-name="MinikaGo" tvg-id="Minika GO.tr" tvg-logo="https://i.ibb.co/2ZwxWr0/minika-go.png" group-title="Çocuklara Özel",MinikaGo
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago/minikago_720p.m3u8
 #EXTINF:-1 tvg-name="Minika Çocuk" tvg-id="Minika Çocuk.tr" tvg-logo="https://i.ibb.co/S794c6W/minika-cocuk.png" group-title="Çocuklara Özel",Minika Çocuk
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/minikago_cocuk/minikago_cocuk_720p.m3u8
-#EXTINF:-1 tvg-name="Smart Cocuk" tvg-id="Smart Cocuk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/Smart_%C3%87ocuk_2015.png" group-title="Çocuklara Özel",Smart Cocuk
-http://teke-tek.garibim.club:6787/tefil-WOI/AcpbP4UsnkRr/379
 
 
