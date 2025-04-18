@@ -1,22 +1,36 @@
 #EXTM3U
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Nation
 https://saran-live.ercdn.net/natgeohd/index.m3u8?st=uo_tiDvIzeRrTIyZ402B9g&e=1738278432
+#EXTINF:-1 tvg-name="National Geoghrapic" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] BELGESEL",National Geoghrapic
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-name="National Geoghrapic Wild" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] BELGESEL",National Geoghrapic Wild
+https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Discovery
 https://217.30.11.74/e/500.m3u8
+#EXTINF:-1 tvg-name="Discovery Channel" tvg-id="Discovery Channel.tr" tvg-logo="https://www.blm.de/files/png1/logo_discoverychannel_600.jpg" group-title="Belgesel",Discovery Channel B
+https://tv.arectv29.sbs/live/discovery.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,BBC
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6854/index.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Dmax
 https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+#EXTINF:-1 tvg-name="Viasat Explore" tvg-id="Viasat Explore" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Viasat_Explore_Logo.jpg" group-title="Belgesel",Viasat Explore
+https://tv.arectv29.sbs/live/viasathistory.m3u8
+#EXTINF:-1 tvg-name="beIN Gurme" tvg-id="TR | beIN Gurmeⓧ FHD" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/bein-gurme-hd-tr.png" group-title="Belgesel",beIN Gurme
+http://unreal.eztv4you.xyz:25461/98392023/224vpw99f7/432169
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,TGRT Belgesel
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
+#EXTINF:-1 tvg-name="TGRT Belgesel" tvg-id="TGRT Belgesel.tr" tvg-logo="https://gitlatte.github.io/m3ueditor/images/kanal-gorselleri/turkiye/tgrt-belgesel-tr.png" group-title="Belgesel",TGRT Belgesel B
+https://ancient-shape-c20a.yedekbirkankam.workers.dev/https://canlitvulusal.xyz/live/tgrtbelgesel/index.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Super Turk Max
 http://stream.tvcdn.net/diger-eglence/superturk-max.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,Sdm Belgesel
 https://host.onlineradyotv.net:8081/sdmtv3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚡Belgesel" tvg-id="MeltemTV.tr" tvg-name="Flash ⚡️Haber" tvg-logo="tv logo" ,CGTN Belgesel
 https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="" group-title="[🇹🇷TR] BELGESEL",TLC
+https://dogus-live.daioncdn.net/tlc/tlc_720p.m3u8
 #EXTINF:-1 tvg-country="TR/Yabancı Dil" tvg-language="TR/EN"  tvg-logo="https://belgeselx.com/images/diziresimleri/72-sevimli.jpg" group-title="💢BELGESEL💢",BEL-72.Sevimli.Hayvan.1
 http://asdfk.xtreamtvplus.net:8080/movie/ytr21s2az/f98d23asac/1796.mkv
 #EXTINF:-1 tvg-country="TR/Yabancı Dil" tvg-language="TR/EN"  tvg-logo="https://belgeselx.com/images/diziresimleri/72-sevimli.jpg" group-title="💢BELGESEL💢",BEL-72.Sevimli.Hayvan.2
