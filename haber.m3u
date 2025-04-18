@@ -13,6 +13,8 @@ https://tv-trthaber.medya.trt.com.tr/master.m3u8
 https://iptv.amgsmart2home.de/YOLTVMAIN/index.m3u8
 #EXTINF:-1 group-title="⚡️Haber" tvg-id="HalkTV.tr" tvg-logo="tv logo" ,Halk TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] HABER",SÖZCÜ TV
+http://185.234.111.229:8000/play/a00y
 #EXTINF:-1 group-title="⚡️Haber" tvg-id="⚡️HaberturkTV.tr" tvg-logo="tv logo" ,Habertürk
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
 #EXTINF:-1 group-title="⚡️Haber" tvg-id="TV100.tr" tvg-logo="tv logo" ,TV 100
