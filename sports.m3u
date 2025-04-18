@@ -13,6 +13,12 @@ http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6818/index.m3u8
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6821/index.m3u8
 #EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Sport 4" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Sport 4
 http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6823/index.m3u8
+#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS HABER
+http://e8379.cakir20.xyz:80/halil.englad4/ayDnT.tNx-1/37165
+#EXTINF:-1 tvg-id="BeinsportsMax.tr" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS MAX 1 [HD]
+https://v.arectv29.sbs/static/bm1.m3u8
+#EXTINF:-1 tvg-id="BeinsportsMax2.tr" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS MAX 2 [HD]
+https://v.arectv29.sbs/static/bm2.m3u8
 #EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="ASPOR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,ASPOR
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 #EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="TivibuSpor" tvg-logo="tv logo" ,TivibuSpor
