@@ -23,7 +23,7 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8?checkedby:MyWay
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 tvg-name="Show TV" tvg-id="Show TV.tr" tvg-logo="https://m.showtv.com.tr/assets/images/other/showtv_social_media.jpg" group-title="Ulusal",Show TV B
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
-#EXTINF:-1 tvg-name="SHOWMAX TV" tvg-id="" tvg-logo="http://epg.one/img/3943.png" group-title="[🇹🇷TR] ULUSAL",SHOWMAX TV
+#EXTINF:-1 tvg-name="SHOWMAX TV" tvg-id="" tvg-logo="http://epg.one/img/3943.png" group-title="[🇹🇷TR] ULUSAL",Showmax Tv
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Now
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
@@ -37,10 +37,14 @@ https://tv8-live.daioncdn.net/tv8/tv8_720p.m3u8
 https://b.fulltvizle.com/kanal8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Tv 8.5
 https://tv.arectv13.sbs/live/tv85.m3u8
+#EXTINF:-1 tvg-name="TV8 INT" tvg-id="" tvg-logo="http://epg.one/img/3950.png" group-title="[🇹🇷TR] ULUSAL",TV8 INT
+http://185.234.111.229:8000/play/a01x
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Beyaz Tv
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,360
 https://tv.ensonhaber.com/tv360/tv360.m3u8
+#EXTINF:-1 tvg-name="360" tvg-id="" tvg-logo="http://epg.one/img/3964.png" group-title="[🇹🇷TR] ULUSAL",360 B
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Teve 2
 https://demiroren-live.daioncdn.net/teve2/teve2_720p.m3u8
 #EXTINF:-1 group-title="⚡Ulusal" tvg-logo="tv logo" ,Kanal 7
