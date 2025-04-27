@@ -61,21 +61,21 @@ http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170512&extension=
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170514&extension=ts
 #EXTINF:-1 tvg-name="BEIN DRAMA HD" tvg-id="" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2020/11/beIN-MOVIES-HD-1.png" group-title="[🇹🇷]Sinema",BEIN DRAMA HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170511&extension=ts
-#EXTINF:-1 group-title="[🇹🇷]Sinema" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" , SINEMA 1001 HD
+#EXTINF:-1 tvg-name="SINEMA 1001 HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA 1001 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170513&extension=ts
-#EXTINF:-1 group-title="[🇹🇷]Sinema" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" , SINEMA 1002 HD
+#EXTINF:-1 tvg-name="SINEMA 1002 HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA 1002 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196826&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , SINEMA AKSIYON HD
+#EXTINF:-1 tvg-name="SINEMA AKSIYON" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA AKSIYON HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196828&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , SINEMA AKSIYON 2 HD
+#EXTINF:-1 tvg-name="SINEMA AKSIYON 2" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA AKSIYON 2
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196829&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , SINEMA AILE HD
+#EXTINF:-1 tvg-name="SINEMA SILE" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA AILE
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196830&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , SINEMA AILE 2 HD
+#EXTINF:-1 tvg-name="SINEMA AILE2" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA AILE2
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196831&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , SINEMA KOMEDI HD
+#EXTINF:-1 tvg-name="SINEMA KOMEDI" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA KOMEDI HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196832&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , SINEMA KOMEDI 2 HD
+#EXTINF:-1 tvg-name="SINEMA KOMEDI2" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA KOMEDI2
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196833&extension=ts
 #EXTINF:-1 group-title="TURKIYE" , DIZI SMART HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=12377&extension=ts
