@@ -3,32 +3,36 @@
 http://jenerik2.cdn.zerocdn.com/DeaTHLess-Jenerik.mp4
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="[🇹🇷]Ulusal",TRT 1
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10790&extension=ts
-#EXTINF:-1 tvg-name="SHOW TV" tvg-id="" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="[🇹🇷]Ulusal",SHOW
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10794&extension=ts
-#EXTINF:-1 tvg-name="KANAL D" tvg-id="" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="[🇹🇷]Ulusal",KANAL D
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10762&extension=ts
 #EXTINF:-1 tvg-name="STAR TV" tvg-id="" tvg-logo="https://i.ibb.co/hY3Z8zx/star-tv.png" group-title="[🇹🇷]Ulusal",STAR
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10725&extension=ts
+#EXTINF:-1 tvg-name="ATV" tvg-id="" tvg-logo="https://i.ibb.co/DwFJ0vn/atv.png" group-title="[🇹🇷]Ulusal",ATV
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10792&extension=ts
+#EXTINF:-1 tvg-name="KANAL D" tvg-id="" tvg-logo="https://i.ibb.co/hf2mSz5/kanal-d.png" group-title="[🇹🇷]Ulusal",KANAL D
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10762&extension=ts
+#EXTINF:-1 tvg-name="SHOW TV" tvg-id="" tvg-logo="https://i.ibb.co/Rv0rWhZ/show.png" group-title="[🇹🇷]Ulusal",SHOW
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10794&extension=ts
 #EXTINF:-1 tvg-name="NOW TV" tvg-id="" tvg-logo="https://i.ibb.co/QvTPfhs/now.png" group-title="[🇹🇷]Ulusal",NOW
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10732&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , BEYAZ HD
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10757&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , ATV HD
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10792&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TV8.5 HD
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10773&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TV8 HD
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10774&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , KANAL 7 HD
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10763&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TEVE 2 HD
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314615&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , A2 HD
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10758&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , 360 HD
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10761&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , TLC HD
+#EXTINF:-1 tvg-name="CNN TÜRK" tvg-id="cnn" tvg-logo="https://i.ibb.co/bFsmkwJ/cnn-turk.png" group-title="[🇹🇷]Haber",CNN TÜRK
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196798&extension=ts
+#EXTINF:-1 tvg-name="NTV" tvg-id="" tvg-logo="https://i.ibb.co/gRR1zpm/ntv.png" group-title="[🇹🇷]Haber",NTV
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170676&extension=ts
+#EXTINF:-1 tvg-name="TLC" tvg-id="TLC.tr" tvg-logo="https://i.ibb.co/Cm1nYZK/tlc.png" group-title="[🇹🇷]Belgesel",TLC
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10776&extension=ts
+#EXTINF:-1 tvg-name="360" tvg-id="" tvg-logo="https://i.ibb.co/s3gJCGL/360.png" group-title="[🇹🇷]Ulusal",360
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10761&extension=ts
+#EXTINF:-1 tvg-name="TEVE 2" tvg-id="" tvg-logo="https://i.ibb.co/JRpJc2P/teve2.png" group-title="[🇹🇷]Ulusal",TEVE 2
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314615&extension=ts
+#EXTINF:-1 tvg-name="BEYAZ TV" tvg-id="" tvg-logo="https://i.ibb.co/1mftzTP/beyaz-tv.png" group-title="[🇹🇷]Ulusal",BEYAZ
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10757&extension=ts
+#EXTINF:-1 tvg-name="TV8.5" tvg-id="" tvg-logo="https://i.ibb.co/6PRYHdW/tv85.png" group-title="[🇹🇷]Ulusal",TV8.5
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10773&extension=ts
+#EXTINF:-1 tvg-name="TV8 [YEDEK]" tvg-id="" tvg-logo="https://i.ibb.co/Kr5SFY1/tv8.png" group-title="[🇹🇷]Ulusal",TV8
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10774&extension=ts
+#EXTINF:-1 tvg-name="KANAL 7" tvg-id="" tvg-logo="https://i.ibb.co/dcC9pzY/kanal-7.png" group-title="[🇹🇷]Ulusal",KANAL 7
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10763&extension=ts
+#EXTINF:-1 tvg-name="A2" tvg-id="" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="[🇹🇷]Ulusal",A2
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10758&extension=ts
 #EXTINF:-1 group-title="TURKIYE" , BEIN PREMIER HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170506&extension=ts
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , BEIN PREMIER 2 HD
@@ -197,10 +201,7 @@ http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196848&extension=
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196820&extension=ts
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TRT HABER HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170673&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , NTV HD
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170676&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , CNN HD
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196798&extension=ts
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , HABERTURK HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314417&extension=ts
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , A HABER HD
