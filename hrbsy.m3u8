@@ -1,11 +1,5 @@
 #EXTM3U
-
-LİSTE @DRAG10 TARAFINDAN YAPILMIŞTIR
-ORTAK @SYNDRAXİC
-https://raw.githubusercontent.com/DRAG-10/DRAG10/refs/heads/special/DRAG10.m3u
-
-#EXTM3U
-#EXTINF:-2🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴ULUSAL KANALLAR🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
+#EXTINF:-2🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴Fox Dizileri🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-id="" tvg-logo="http://epg.one/img/2598.png" group-title="[🇹🇷TR] ULUSAL",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
