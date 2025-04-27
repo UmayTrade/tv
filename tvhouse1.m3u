@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="TURKIYE" tvg-id="TR" tvg-name="TR: TELEGRAM DEATHLESS IPTV" ,TR: TELEGRAM DEATHLESS IPTV
 http://jenerik2.cdn.zerocdn.com/DeaTHLess-Jenerik.mp4
-#EXTINF:-1 group-title="TURKIYE" , TRT 1 HD
+#EXTINF:-1 tvg-name="TRT 1" tvg-id="" tvg-logo="https://i.ibb.co/thr6mVk/trt-1.png" group-title="[🇹🇷]Ulusal",TRT 1
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10790&extension=ts
 #EXTINF:-1 group-title="TURKIYE" , SHOW HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10794&extension=ts
