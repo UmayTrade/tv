@@ -45,15 +45,15 @@ http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170507&extension=
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170504&extension=ts
 #EXTINF:-1 tvg-name="BEIN ACTION 2" tvg-id="" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2020/11/beIN-MOVIES-HD-1.png" group-title="[🇹🇷]Sinema",BEIN ACTION 2
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170505&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , BEIN STARS HD
+#EXTINF:-1 tvg-name="BEIN STAR" tvg-id="" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2020/11/beIN-MOVIES-HD-1.png" group-title="[🇹🇷]Sinema",BEIN STAR
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170508&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , BEIN FAMILY HD
+#EXTINF:-1 tvg-name="BEIN FAMILY" tvg-id="" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2020/11/beIN-MOVIES-HD-1.png" group-title="[🇹🇷]Sinema",BEIN FAMILY
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170503&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , BEIN TURK HD
+#EXTINF:-1 tvg-name="BEIN TURK" tvg-id="" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2020/11/beIN-MOVIES-HD-1.png" group-title="[🇹🇷]Sinema",BEIN TURK
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170509&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , BEIN COMEDY HD
+#EXTINF:-1 tvg-name="BEIN COMEDY" tvg-id="" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2020/11/beIN-MOVIES-HD-1.png" group-title="[🇹🇷]Sinema",BEIN COMEDY
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=12360&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , BEIN FESTIVAL HD
+#EXTINF:-1 tvg-name="BEIN FESTIVAL" tvg-id="" tvg-logo="https://www.beinmediagroup.com/ar/wp-content/uploads/sites/3/2020/11/beIN-MOVIES-HD-1.png" group-title="[🇹🇷]Sinema",BEIN FESTIVAL
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=12359&extension=ts
 #EXTINF:-1 group-title="TURKIYE" , BEIN SCI-FI HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170512&extension=ts
