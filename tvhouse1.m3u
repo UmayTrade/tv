@@ -203,53 +203,52 @@ http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10742&extension=t
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196848&extension=ts
 #EXTINF:-1 tvg-name="DOCU BOX HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",DOCU BOX HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196820&extension=ts
-
-
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , A HABER HD
+#EXTINF:-1 tvg-name="A HABER HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Haber",A HABER HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170671&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , SZC HD
+#EXTINF:-1 tvg-name="SZC HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",SZC HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314430&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , KRT HD
+#EXTINF:-1 tvg-name="KRT HD HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",KRT HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314423&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , TV 100 HD
+#EXTINF:-1 tvg-name="TV 100 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",TV 100 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170667&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , HALKTV HD
+#EXTINF:-1 tvg-name="HALKTV HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",HALKTV HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314419&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , TGRT HABER
+#EXTINF:-1 tvg-name="TGRT HABER" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",TGRT HABER
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10755&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , TELE 1 HD
+#EXTINF:-1 tvg-name="TELE 1 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",TELE 1 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314421&extension=ts
+#EXTINF:-1 tvg-name="BEIN HABER HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",BEIN HABER HD
 #EXTINF:-1 group-title="TURKIYE" , BEIN HABER HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196816&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , BEIN SPORT 1 HD
+#EXTINF:-1 tvg-name="BEIN SPORT 1 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",BEIN SPORT 1 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10698&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , BEIN SPORT 2 HD
+#EXTINF:-1 tvg-name="BEIN SPORT 2 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",BEIN SPORT 2 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10697&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , BEIN SPORT 3 HD
+#EXTINF:-1 tvg-name="BEIN SPORT 3 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",BEIN SPORT 3 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10696&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , BEIN SPORT 4 HD
+#EXTINF:-1 tvg-name="BEIN SPORT 4 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",BEIN SPORT 4 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10695&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , BEIN SPORT 5 HD
+#EXTINF:-1 tvg-name="BEIN SPORT 5 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",BEIN SPORT 5 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314885&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , BEIN SPORT MAX 1 HD
+#EXTINF:-1 tvg-name="BEIN SPORT MAX 1 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",BEIN SPORT MAX 1 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=44442&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , BEIN SPORT MAX 2 HD
+#EXTINF:-1 tvg-name="BEIN SPORT MAX 2 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",BEIN SPORT MAX 2 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=44445&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , TRT ÇOCUK HD
+#EXTINF:-1 tvg-name="TRT ÇOCUK HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Cocuk",TRT ÇOCUK HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10787&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , CARTOON HD
+#EXTINF:-1 tvg-name="CARTOON HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Cocuk",CARTOON HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10752&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , MİNİKA GO HD
+#EXTINF:-1 tvg-name="MİNİKA GO HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Cocuk",MİNİKA GO HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10747&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , MİNİKA ÇOCUK HD
+#EXTINF:-1 tvg-name="MİNİKA ÇOCUK HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Cocuk",MİNİKA ÇOCUK HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10748&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , BABY HD
+#EXTINF:-1 tvg-name="BABY HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Cocuk",BABY HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10754&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , NICK JR HD
+#EXTINF:-1 tvg-name="NICK JR HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Cocuk",NICK JR HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10745&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , CARTOON NITO HD
+#EXTINF:-1 tvg-name="CARTOON NITO HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Cocuk",CARTOON NITO HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10753&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , NICKTOONS HD
+#EXTINF:-1 tvg-name="NICKTOONS HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Cocuk",NICKTOONS HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314448&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , CBEBIES HD
+#EXTINF:-1 tvg-name="CBEBIES HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Cocuk",CBEBIES HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314449&extension=ts
