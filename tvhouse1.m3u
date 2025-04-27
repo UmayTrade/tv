@@ -69,7 +69,7 @@ http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196826&extension=
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196828&extension=ts
 #EXTINF:-1 tvg-name="SINEMA AKSIYON 2" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA AKSIYON 2
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196829&extension=ts
-#EXTINF:-1 tvg-name="SINEMA SILE" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA AILE
+#EXTINF:-1 tvg-name="SINEMA AILE" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA AILE
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196830&extension=ts
 #EXTINF:-1 tvg-name="SINEMA AILE2" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA AILE2
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196831&extension=ts
@@ -77,54 +77,61 @@ http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196831&extension=
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196832&extension=ts
 #EXTINF:-1 tvg-name="SINEMA KOMEDI2" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA KOMEDI2
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196833&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , DIZI SMART HD
+#EXTINF:-1 tvg-name="DIZI SMART" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",DIZI SMART
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=12377&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , MOVIE SMART PREMIUM HD
+#EXTINF:-1 tvg-name="MOVIE SMART PREMIUM HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",MOVIE SMART PREMIUM HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=27830&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , MOVIE SMART ACTION HD
+#EXTINF:-1 tvg-name="MOVIE SMART ACTION HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",MOVIE SMART ACTION HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=12371&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , MOVIE SMART CLASSIC HD
+#EXTINF:-1 tvg-name="MOVIE SMART CLASSIC HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",MOVIE SMART CLASSIC HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170515&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , MOVIE SMART TURK HD
+#EXTINF:-1 tvg-name="MOVIE SMART TURK HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",MOVIE SMART TURK HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=12378&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , MOVIE SMART COCUK HD
+#EXTINF:-1 tvg-name="MOVIE SMART COCUK HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",MOVIE SMART COCUK HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170516&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , MOVIE CLASSIC HD
+#EXTINF:-1 tvg-name="MOVIE CLASSIC HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",MOVIE CLASSIC HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196849&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , MOVIE SMART PREMIUM 2 HD
+#EXTINF:-1 tvg-name="MOVIE SMART PREMIUM 2 HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",MOVIE SMART PREMIUM 2 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196824&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , DIZI SMART MAX HD
+#EXTINF:-1 tvg-name="DIZI SMART MAX HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",DIZI SMART MAX HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=151777&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , DIZI SMART PREMIUM HD
+#EXTINF:-1 tvg-name="DIZI SMART PREMIUM HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",DIZI SMART PREMIUM HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=151778&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , SINEMA HD
+#EXTINF:-1 tvg-name="SINEMA HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196834&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , SINEMA 2 HD
+#EXTINF:-1 tvg-name="SINEMA 2 HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",SINEMA 2 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196827&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , FX HD
+#EXTINF:-1 tvg-name="FX HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",FX HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196847&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , FOX CRIME HD
+#EXTINF:-1 tvg-name="FOX CRIME HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",FOX CRIME HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=151782&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , FILM SCREEN HD
+#EXTINF:-1 tvg-name="FILM SCREEN HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",FILM SCREEN HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=151780&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , AVRUPA YAKASI HD
+#EXTINF:-1 tvg-name="AVRUPA YAKASI HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Sinema",AVRUPA YAKASI HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314930&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , VIZYON HD
+#EXTINF:-1 tvg-name="VIZYON HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",VIZYON HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314942&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , VIZYON 2 HD
+#EXTINF:-1 tvg-name="VIZYON 2 HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",VIZYON 2 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314941&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , VIZYON YESILCAM HD
+#EXTINF:-1 tvg-name="VIZYON YESILCAM HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Sinema",VIZYON YESILCAM HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314940&extension=ts
+
+#EXTINF:-1 tvg-name="FILM SCREEN HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",FILM SCREEN HD
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , CINEMAX HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314939&extension=ts
+#EXTINF:-1 tvg-name="FILM SCREEN HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",FILM SCREEN HD
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , CINEMAX 2 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314938&extension=ts
+#EXTINF:-1 tvg-name="FILM SCREEN HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",FILM SCREEN HD
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , CINEMAX 3 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314937&extension=ts
+#EXTINF:-1 tvg-name="FILM SCREEN HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",FILM SCREEN HD
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , GÜLDÜR GÜLDÜR HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314443&extension=ts
+#EXTINF:-1 tvg-name="FILM SCREEN HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",FILM SCREEN HD
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , ARKADAŞIM HOŞGELDİN HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314444&extension=ts
+#EXTINF:-1 tvg-name="FILM SCREEN HD" tvg-id="" tvg-logo="https://w7.pngwing.com/pngs/521/935/png-transparent-cinema-television-film-film-elements-food-logo-film-poster-thumbnail.png" group-title="[🇹🇷]Sinema",FILM SCREEN HD
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , ÇGHB HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314445&extension=ts
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , S SPORT HD
