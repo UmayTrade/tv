@@ -1,71 +1,171 @@
 #EXTM3U
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Spor Haber" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Spor Haber
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6939/index.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Sport 1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Sport 1
-http://103.161.34.59:8080/INFINITYZBRbH14hQF/KWz6KrhQvj/148
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Sport 1 Yedek" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Sport 1 Yedek
-http://188.95.65.168:25461/arjantin/EByTyVc9emWq/2463
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Sport 2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Sport 2
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6818/index.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Sport 2 Yedek" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Sport 2 Yedek
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6818/index.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Sport 3" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Sport 3
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6821/index.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Bein Sport 4" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Bein Sport 4
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6823/index.m3u8
-#EXTINF:-1 tvg-name="beIN SPORTS HABER" tvg-id="" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS HABER
-http://e8379.cakir20.xyz:80/halil.englad4/ayDnT.tNx-1/37165
-#EXTINF:-1 tvg-id="BeinsportsMax.tr" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS MAX 1 [HD]
-https://v.arectv29.sbs/static/bm1.m3u8
-#EXTINF:-1 tvg-id="BeinsportsMax2.tr" tvg-logo="" group-title="[🇹🇷TR] BEIN SPORTS",beIN SPORTS MAX 2 [HD]
-https://v.arectv29.sbs/static/bm2.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="ASPOR" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,ASPOR
-https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="TivibuSpor" tvg-logo="tv logo" ,TivibuSpor
-http://stream.tvcdn.net/spor/tivibu-spor.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="TiviBu Spor2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,TiviBu Spor2
-http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6816/index.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Eurosport1" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Eurosport1
-https://eurosport1.blutv.com/blutv_eurosport1/smil:eurosport1.smil/playlist.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Eurosport2" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Eurosport2
-https://eurosport2.blutv.com/blutv_eurosport2/smil:eurosport2.smil/playlist.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Sport" tvg-logo="tv logo" ,Sport
-https://217.30.11.74/e/3030.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Sport2" tvg-logo="tv logo" ,Sport2
-https://217.30.11.74/e/3031.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Hard Knocks Fighting" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,Hard Knocks Fighting
-https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="RedBull TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,RedBull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="FİFA" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,FİFA
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="DAZN Combat Boks TV" tvg-logo="https://raw.githubusercontent.com/GitLatte/m3ueditor/refs/heads/site/images/default-channel.png" ,DAZN Combat Boks TV
-https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Tabii Spor" tvg-logo="tv logo" ,Tabii Spor
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Tabii Spor1" tvg-logo="tv logo" ,Tabii Spor1
-https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Tabii Spor2" tvg-logo="tv logo" ,Tabii Spor2
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Tabii Spor3" tvg-logo="tv logo" ,Tabii Spor3
-https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Tabii Spor4" tvg-logo="tv logo" ,Tabii Spor4
-https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Tabii Spor5" tvg-logo="tv logo" ,Tabii Spor5
-https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Tabii Spor6" tvg-logo="tv logo" ,Tabii Spor6
-https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="TRT Spor" tvg-logo="tv logo" ,TRT Spor
-https://tv-trtspor1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 tvg-name="TRT SPOR" tvg-id="" tvg-logo="http://epg.one/img/6525.png" group-title="[🇹🇷TR] SPOR",TRT SPOR B
-https://trt.daioncdn.net/trtspor/master.m3u8?app=web
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="TRT Spor Yıldız" tvg-logo="tv logo" ,TRT Spor Yıldız
-https://tv-trtspor2.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Sports TV" tvg-logo="tv logo" ,Sports TV
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="TRSPOR TV" tvg-logo="tv logo" ,TRSPOR TV
-http://116.202.117.244/gzcspor/gzcspor/playlist.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="Türkiye Ziraat Kupası" tvg-logo="tv logo" ,Türkiye Ziraat Kupası
-http://stream.tvcdn.net/spor/ziraat-turkiye-kupasi-tv.m3u8
-#EXTINF:-1 group-title="⚡Spor" tvg-id="73" tvg-name="HT Spor" tvg-logo="tv logo" ,HT Spor
-https://ciner-live.daioncdn.net/ht-spor/ht-spor_1080p.m3u8
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/aspor.png" tvg-name="TR ▎A SPOR FHD" ,TR ▎A SPOR FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664845.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/aspor.png" tvg-name="TR ▎A SPOR HD" ,TR ▎A SPOR HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664846.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/trtspor.png" tvg-name="TR ▎TRT SPOR FHD" ,TR ▎TRT SPOR FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664847.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/trtspor.png" tvg-name="TR ▎TRT SPOR HD" ,TR ▎TRT SPOR HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664848.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/trtspor.png" tvg-name="TR ▎TRT SPOR YILDIZ FHD" ,TR ▎TRT SPOR YILDIZ FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664849.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/trtspor.png" tvg-name="TR ▎TRT SPOR YILDIZ HD" ,TR ▎TRT SPOR YILDIZ HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664850.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/eurosport1.png" tvg-name="TR ▎EUROSPORT 1 FHD" ,TR ▎EUROSPORT 1 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664851.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/eurosport1.png" tvg-name="TR ▎EUROSPORT 1 HD" ,TR ▎EUROSPORT 1 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664852.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/eurosport2.png" tvg-name="TR ▎EUROSPORT 2 FHD" ,TR ▎EUROSPORT 2 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664853.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/eurosport2.png" tvg-name="TR ▎EUROSPORT 2 HD" ,TR ▎EUROSPORT 2 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664854.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/smartspor1.png" tvg-name="TR ▎SMART SPOR 1 FHD" ,TR ▎SMART SPOR 1 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664831.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/smartspor1.png" tvg-name="TR ▎SMAR SPORT 1 HD" ,TR ▎SMAR SPORT 1 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664832.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/smartspor2.png" tvg-name="TR ▎SMART SPOR 2 FHD" ,TR ▎SMART SPOR 2 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664833.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/smartspor2.png" tvg-name="TR ▎SMART SPOR 2 HD" ,TR ▎SMART SPOR 2 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664834.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/sportstv.png" tvg-name="TR ▎SPORTS TV SD" ,TR ▎SPORTS TV SD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/3466.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/taytv.png" tvg-name="TR ▎TAY TV FHD" ,TR ▎TAY TV FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/3464.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc//gstv.png" tvg-name="TR ▎GS TV HD" ,TR ▎GS TV HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/37235.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/fbtv.png" tvg-name="TR ▎FB TV SD" ,TR ▎FB TV SD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/3465.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/nbatv.png" tvg-name="TR ▎NBA TV FHD" ,TR ▎NBA TV FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/111488.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/fightbox.png" tvg-name="TR ▎FIGHT BOX FHD" ,TR ▎FIGHT BOX FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/111489.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsportshaber.png" tvg-name="TR ▎BEIN SPORTS HABER FHD" ,TR ▎BEIN SPORTS HABER FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664782.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsportshaber.png" tvg-name="TR ▎BEIN SPORTS HABER HD" ,TR ▎BEIN SPORTS HABER HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664784.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" tvg-name="TR ▎BEIN SPORTS 1 50 FPS HD" ,TR ▎BEIN SPORTS 1 50 FPS HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/727460.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" tvg-name="TR ▎BEIN SPORTS 1 50 FPS FHD" ,TR ▎BEIN SPORTS 1 50 FPS FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664785.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" tvg-name="TR ▎BEIN SPORTS 1 FHD" ,TR ▎BEIN SPORTS 1 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664789.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" tvg-name="TR ▎BEIN SPORTS 1 HD" ,TR ▎BEIN SPORTS 1 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664790.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" tvg-name="TR ▎BEIN SPORTS 1 SD" ,TR ▎BEIN SPORTS 1 SD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664792.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports2.png" tvg-name="TR ▎BEIN SPORTS 2 FHD" ,TR ▎BEIN SPORTS 2 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664794.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports2.png" tvg-name="TR ▎BEIN SPORTS 2 HD" ,TR ▎BEIN SPORTS 2 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664796.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports2.png" tvg-name="TR ▎BEIN SPORTS 2 SD" ,TR ▎BEIN SPORTS 2 SD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664798.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports3.png" tvg-name="TR ▎BEIN SPORTS 3 FHD" ,TR ▎BEIN SPORTS 3 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664800.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports3.png" tvg-name="TR ▎BEIN SPORTS 3 HD" ,TR ▎BEIN SPORTS 3 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664802.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports3.png" tvg-name="TR ▎BEIN SPORTS 3 SD" ,TR ▎BEIN SPORTS 3 SD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664804.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports4.png" tvg-name="TR ▎BEIN SPORTS 4 FHD" ,TR ▎BEIN SPORTS 4 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664805.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports4.png" tvg-name="TR ▎BEIN SPORTS 4 HD" ,TR ▎BEIN SPORTS 4 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664807.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports4.png" tvg-name="TR ▎BEIN SPORTS 4 SD" ,TR ▎BEIN SPORTS 4 SD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664809.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports5.png" tvg-name="TR ▎BEIN SPORTS 5 FHD" ,TR ▎BEIN SPORTS 5 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/684447.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports5.png" tvg-name="TR ▎BEIN SPORTS 5 HD" ,TR ▎BEIN SPORTS 5 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/684448.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsports5.png" tvg-name="TR ▎BEIN SPORTS 5 SD" ,TR ▎BEIN SPORTS 5 SD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/684449.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsportsmax1.png" tvg-name="TR ▎BEIN SPORTS MAX 1 HD" ,TR ▎BEIN SPORTS MAX 1 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664810.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/beinsportsmax2.png" tvg-name="TR ▎BEIN SPORTS MAX 2 HD" ,TR ▎BEIN SPORTS MAX 2 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664812.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/ssport.png" tvg-name="TR ▎S SPORT 1 FHD" ,TR ▎S SPORT 1 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664820.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/ssport.png" tvg-name="TR ▎S SPORT 1 HD" ,TR ▎S SPORT 1 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664821.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/ssport2.png" tvg-name="TR ▎S SPORT 2 FHD" ,TR ▎S SPORT 2 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664822.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/ssport2.png" tvg-name="TR ▎S SPORT 2 HD" ,TR ▎S SPORT 2 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664823.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/sportplus.png" tvg-name="TR ▎S SPORT+ 1 FHD" ,TR ▎S SPORT+ 1 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664824.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/sportplus.png" tvg-name="TR ▎S SPORT+ 2 FHD" ,TR ▎S SPORT+ 2 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664825.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/sportplus.png" tvg-name="TR ▎S SPORT+ 3 FHD" ,TR ▎S SPORT+ 3 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664826.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/sportplus.png" tvg-name="TR ▎S SPORT+ 4 FHD" ,TR ▎S SPORT+ 4 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664827.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/sportplus.png" tvg-name="TR ▎S SPORT+ 5 FHD" ,TR ▎S SPORT+ 5 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664828.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/sportplus.png" tvg-name="TR ▎S SPORT+ 6 FHD" ,TR ▎S SPORT+ 6 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664829.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/sportplus.png" tvg-name="TR ▎S SPORT+ 7 FHD" ,TR ▎S SPORT+ 7 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664830.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/tivibuspor1hd.png" tvg-name="TR ▎TIVIBUSPOR 1 FHD" ,TR ▎TIVIBUSPOR 1 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664835.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/tivibuspor1hd.png" tvg-name="TR ▎TIVIBUSPOR 1 HD" ,TR ▎TIVIBUSPOR 1 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/727455.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/tivibuspor2hd.png" tvg-name="TR ▎TIVIBUSPOR 2 FHD" ,TR ▎TIVIBUSPOR 2 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664837.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/tivibuspor2hd.png" tvg-name="TR ▎TIVIBUSPOR 2 HD" ,TR ▎TIVIBUSPOR 2 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/727456.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/tivibuspor3hd.png" tvg-name="TR ▎TIVIBUSPOR 3 FHD" ,TR ▎TIVIBUSPOR 3 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664839.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/tivibuspor3hd.png" tvg-name="TR ▎TIVIBUSPOR 3 HD" ,TR ▎TIVIBUSPOR 3 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/727457.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/tivibuspor4hd.png" tvg-name="TR ▎TIVIBUSPOR 4 FHD" ,TR ▎TIVIBUSPOR 4 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664841.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/tivibuspor4hd.png" tvg-name="TR ▎ TIVIBUSPOR 4 HD" ,TR ▎ TIVIBUSPOR 4 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/727458.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/tivibuspor5hd.png" tvg-name="TR ▎TIVIBUSPOR 5 FHD" ,TR ▎TIVIBUSPOR 5 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664843.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/tivibuspor5hd.png" tvg-name="TR ▎TIVIBUSPOR 5 HD" ,TR ▎TIVIBUSPOR 5 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/727459.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/exxensports.png" tvg-name="TR ▎EXXEN SPORTS 1 FHD" ,TR ▎EXXEN SPORTS 1 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664855.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/exxensports.png" tvg-name="TR ▎EXXEN SPORTS 1 HD" ,TR ▎EXXEN SPORTS 1 HD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664856.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/exxensports.png" tvg-name="TR ▎EXXEN SPORTS 2 FHD" ,TR ▎EXXEN SPORTS 2 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664858.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/exxensports.png" tvg-name="TR ▎EXXEN SPORTS 2" ,TR ▎EXXEN SPORTS 2
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/715827.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/exxensports.png" tvg-name="TR ▎EXXEN SPORTS 3 FHD" ,TR ▎EXXEN SPORTS 3 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664859.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/exxensports.png" tvg-name="TR ▎EXXEN SPORTS 4 FHD" ,TR ▎EXXEN SPORTS 4 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664860.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/exxensports.png" tvg-name="TR ▎EXXEN SPORTS 5 FHD" ,TR ▎EXXEN SPORTS 5 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664861.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/exxensports.png" tvg-name="TR ▎EXXEN SPORTS 6 FHD" ,TR ▎EXXEN SPORTS 6 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664862.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/exxensports.png" tvg-name="TR ▎EXXEN SPORTS 7 FHD" ,TR ▎EXXEN SPORTS 7 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664863.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-logo="https://img.logo-cdn.cc/exxensports.png" tvg-name="TR ▎EXXEN SPORTS 8 FHD" ,TR ▎EXXEN SPORTS 8 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/664864.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-name="TR ▎TABII SPOR FHD" ,TR ▎TABII SPOR FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1461316.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-name="TR ▎TABII SPOR 1 FHD" ,TR ▎TABII SPOR 1 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444401.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-name="TR ▎TABII SPOR 2 FHD" ,TR ▎TABII SPOR 2 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444402.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-name="TR ▎TABII SPOR 3 FHD" ,TR ▎TABII SPOR 3 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444403.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-name="TR ▎TABII SPOR 4 FHD" ,TR ▎TABII SPOR 4 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444404.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-name="TR ▎TABII SPOR 5 FHD" ,TR ▎TABII SPOR 5 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444405.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-name="TR ▎TABII SPOR 6 FHD" ,TR ▎TABII SPOR 6 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444406.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-name="TR ▎FIL SPOR 1 FHD" ,TR ▎FIL SPOR 1 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444407.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-name="TR ▎FIL SPOR 2 FHD" ,TR ▎FIL SPOR 2 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444408.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-name="TR ▎FIL SPOR 3 FHD" ,TR ▎FIL SPOR 3 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444409.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-name="TR ▎FIL SPOR 4 FHD" ,TR ▎FIL SPOR 4 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444410.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-name="TR ▎FIL SPOR 5 FHD" ,TR ▎FIL SPOR 5 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444411.m3u8?play_token=
+#EXTINF:-1 group-title="Türkiye" tvg-name="TR ▎FIL SPOR 6 FHD" ,TR ▎FIL SPOR 6 FHD
+http://mag.king-4k.cc:80/live/A31244D285DD733/vHrBPrteyz/1444412.m3u8?play_token=
