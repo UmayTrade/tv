@@ -127,81 +127,81 @@ http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314443&extension=
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314444&extension=ts
 #EXTINF:-1 tvg-name="ÇGHB HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Eski Dizi",ÇGHB HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314445&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , S SPORT HD
+#EXTINF:-1 tvg-name="S SPORT HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",S SPORT HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196856&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , S SPORT 2 HD
+#EXTINF:-1 tvg-name="S SPORT2 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",S SPORT2 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196857&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , SMART SPORT  HD
+#EXTINF:-1 tvg-name="SMART SPORT HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",SMART SPORT HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10688&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , SMART SPORT 2 HD
+#EXTINF:-1 tvg-name="SMART SPORT 2 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",SMART SPORT 2 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196859&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TIVIBU 1 HD
+#EXTINF:-1 tvg-name="TIVIBU 1 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",TIVIBU 1 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=54289&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TIVIBU 2 HD
+#EXTINF:-1 tvg-name="TIVIBU 2 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",TIVIBU 2 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=54287&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TIVIBU 3 HD
+#EXTINF:-1 tvg-name="TIVIBU 3 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",TIVIBU 3 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=54288&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , NBA HD
+#EXTINF:-1 tvg-name="NBA HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",NBA HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196854&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , EURO SPORT 1 HD
+#EXTINF:-1 tvg-name="EURO SPORT 1 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",EURO SPORT 1 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196844&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , EURO SPORT 2 HD
+#EXTINF:-1 tvg-name="EURO SPORT 2 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",EURO SPORT 2 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196845&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , EXXEN 1 HD
+#EXTINF:-1 tvg-name="EXXEN 1 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",EXXEN 1 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=157111&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , EXXEN 2 HD
+#EXTINF:-1 tvg-name="EXXEN 2 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",EXXEN 2 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=157114&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , EXXEN 3 HD
+#EXTINF:-1 tvg-name="EXXEN 3 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",EXXEN 3 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=157116&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , EXXEN 4 HD
+#EXTINF:-1 tvg-name="EXXEN 4 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",EXXEN 4 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=157117&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TABII TV HD
+#EXTINF:-1 tvg-name="TABII TV HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",TABII TV HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=1195377&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TABII HD
+#EXTINF:-1 tvg-name="TABII TV HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",TABII TV HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=1195376&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TABİİ 1 HD
+#EXTINF:-1 tvg-name="TABİİ 1 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",TABİİ 1 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=1121578&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TABİİ 2 HD
+#EXTINF:-1 tvg-name="TABİİ 2 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",TABİİ 2 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=1121576&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TABİİ 3 HD
+#EXTINF:-1 tvg-name="TABİİ 3 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",TABİİ 3 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=1121574&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TABİİ 4 HD
+#EXTINF:-1 tvg-name="TABİİ 4 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",TABİİ 4 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=1121572&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TABİİ 5 HD
+#EXTINF:-1 tvg-name="TABİİ 5 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",TABİİ 5 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=1121570&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TABİİ 6 HD
+#EXTINF:-1 tvg-name="TABİİ 6 HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Spor",TABİİ 6 HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=1121568&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , BEIN IZ HD
+#EXTINF:-1 tvg-name="BEIN IZ HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",BEIN IZ HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314487&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , BEIN GURME HD
+#EXTINF:-1 tvg-name="BEIN GURME HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",BEIN GURME HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314486&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , 24 KITCHEN
+#EXTINF:-1 tvg-name="24 KITCHEN" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",24 KITCHEN
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196836&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , DMAX HD
+#EXTINF:-1 tvg-name="DMAX HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",DMAX HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170683&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , HISTORY HD
+#EXTINF:-1 tvg-name="HISTORY HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",HISTORY HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10736&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , BBC EARTH HD
+#EXTINF:-1 tvg-name="BBC EARTH HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",BBC EARTH HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314485&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , HISTORY HD
+#EXTINF:-1 tvg-name="HISTORY HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",HISTORY HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170684&extension=ts
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , VIASAT HISTORY HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10735&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , VIASAT NATURE HD
+#EXTINF:-1 tvg-name="VIASAT NATURE HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",VIASAT NATURE HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314484&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , DISCOVERY HD
+#EXTINF:-1 tvg-name="DISCOVERY HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",DISCOVERY HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10740&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , DISCOVERY SCIENCE HD
+#EXTINF:-1 tvg-name="DISCOVERY SCIENCE HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",DISCOVERY SCIENCE HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10738&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , DISCOVERY ID HD
+#EXTINF:-1 tvg-name="DISCOVERY ID HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",DISCOVERY ID HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=185784&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , NAT GEO HD
+#EXTINF:-1 tvg-name="NAT GEO HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",NAT GEO HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196851&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , NAT WILD HD
+#EXTINF:-1 tvg-name="NAT WILD HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",NAT WILD HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10742&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , LOVE NATURE HD
+#EXTINF:-1 tvg-name="LOVE NATURE HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",LOVE NATURE HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196848&extension=ts
-#EXTINF:-1 group-title="TURKIYE" , DOCU BOX HD
+#EXTINF:-1 tvg-name="DOCU BOX HD" tvg-id="" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" group-title="[🇹🇷]Belgesel",DOCU BOX HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196820&extension=ts
 
 
