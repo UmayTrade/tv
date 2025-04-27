@@ -33,6 +33,10 @@ http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10774&extension=t
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10763&extension=ts
 #EXTINF:-1 tvg-name="A2" tvg-id="" tvg-logo="https://i.ibb.co/7WTsG83/a2.png" group-title="[🇹🇷]Ulusal",A2
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10758&extension=ts
+#EXTINF:-1 tvg-name="Trt Haber" tvg-id="Haber Turk.tr" tvg-logo="ttps://i.hizliresim.com/ska5t9e.jp" group-title="[🇹🇷]Haber",TRT HABER HD
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170673&extension=ts
+#EXTINF:-1 tvg-name="HABER TÜRK" tvg-id="Haber Turk.tr" tvg-logo="https://i.ibb.co/5GmcTH9/haberturk.png" group-title="[🇹🇷]Haber",HABER TÜRK
+http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314417&extension=ts
 #EXTINF:-1 group-title="TURKIYE" , BEIN PREMIER HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170506&extension=ts
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , BEIN PREMIER 2 HD
@@ -199,11 +203,8 @@ http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=10742&extension=t
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196848&extension=ts
 #EXTINF:-1 group-title="TURKIYE" , DOCU BOX HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=196820&extension=ts
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , TRT HABER HD
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170673&extension=ts
 
-#EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , HABERTURK HD
-http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=314417&extension=ts
+
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , A HABER HD
 http://tvhouse.live/play/live.php?mac=00:1a:79:b0:b6:95&stream=170671&extension=ts
 #EXTINF:-1 group-title="TURKIYE" tvg-logo="https://i.hizliresim.com/ska5t9e.jpg" , SZC HD
